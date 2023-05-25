@@ -22,4 +22,11 @@ In future
       <li> Create a superuser for our project which have access to admin models of django
     </ol>
   </li>
+  <li>
+  Run development server 
+    <ol>
+      <li> Run the : python manage.py runserver </li>
+      <li> Go to default port 8000 on localhost </li>
+    </ol>
+  </li>
 </ol>
