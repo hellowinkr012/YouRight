@@ -1,5 +1,5 @@
 # YouRight
-
+It is a polling web app with user authentication , It has many features like anonymous polling and private polls based upon different users in website system .
 ## Intial steps for project setup like admin models and file directory structure
 <ol>
   <li>
