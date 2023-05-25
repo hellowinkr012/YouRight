@@ -2,6 +2,7 @@
 
 <ol>
   <li>
+    Setup file directory in your project
     <ol>
       <li> First clone this repository <li>
       <li> Change current directory to project directory </li>
