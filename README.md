@@ -13,6 +13,7 @@
     <ol>
       <li> Make migrations for admin models </li>
       <li> Migrate admin models to access admin panel in django for our project </li>
+      <li> Create a superuser for our project which have access to admin models of django
     </ol>
   </li>
 </ol>
