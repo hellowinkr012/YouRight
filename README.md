@@ -1,5 +1,7 @@
 # YouRight
 
-<ul>
-  <li> First clone this repository <li>
-</ul>
+<ol>
+  <ol>
+    <li> First clone this repository <li>
+  </ol>
+</ol>
