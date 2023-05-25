@@ -1,7 +1,7 @@
 # YouRight
 It is a polling web app 
 <ol>
-  In future
+In future
   <li>Anonymous polls</li>
   <li>Private polls ( Users based )</li>
 </ol>
