@@ -1,5 +1,6 @@
 # YouRight
 
+## Intial steps for project setup like admin models and file directory structure
 <ol>
   <li>
     Setup file directory in your project
