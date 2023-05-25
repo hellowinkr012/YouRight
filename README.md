@@ -5,7 +5,7 @@ In future
   <li>Anonymous polls</li>
   <li>Private polls ( Users based )</li>
 </ol>
-## Intial steps for project setup like admin models and file directory structure
+# Intial steps for project setup like admin models and file directory structure
 <ol>
   <li>
     Setup file directory in your project
